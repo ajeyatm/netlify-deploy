@@ -1,9 +1,12 @@
 import React from 'react'
-import logo from './logo.svg'
-import './App.css'
+import Navigator from './components/Navigator'
 
 function App() {
-  return <div className='App'>Welcome to my first netlify app!!</div>
+  return (
+    <div className='container'>
+      <Navigator />
+    </div>
+  )
 }
 
 export default App
