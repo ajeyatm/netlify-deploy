@@ -42,7 +42,7 @@ function Navigator() {
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  Neflify App
+                  Netlify App
                 </a>
               </Card.Body>
             </Card>
